@@ -1,6 +1,6 @@
 {
-    "port": 5000,
+    "port": 80,
     "mongoUri": "mongodb+srv://dbUser:dbUserPassword@cluster0.4bspu.mongodb.net/app?retryWrites=true&w=majority",
     "jwtSecret": "some sercret token",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "http://home.cryptopup.site"
 }
